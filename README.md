@@ -52,6 +52,3 @@ tripadvisor-clone/
 
 Tripadvisor Link  -  https://abi3150.github.io/Tripadvisor/
 
-### 📌 Future Improvements
-
-* Add JavaScript for intera
