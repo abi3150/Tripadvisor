@@ -1,5 +1,4 @@
 
-
 ## 📌 Tripadvisor Clone (HTML & CSS)
 
 ### 📖 Description
